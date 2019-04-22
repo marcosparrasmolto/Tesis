@@ -14,7 +14,7 @@ my $USAGE=<<"USAGE" ;
  
  Usage
 
- 1- Modificar la ruta del archivo (path) y el nombre de archivo de entra y salida (file_contigs y file_Salida respectivamente)
+ 1- Modificar la ruta del archivo (path) y el nombre de archivo de entrada y salida (file_contigs y file_Salida respectivamente)
  
  2- Indicar por argumentos el tamaño de ventana de nucleótidos a analizar (primer parámetro) y el tamaño del paso a dar (segundo parámetro).
  

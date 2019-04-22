@@ -14,7 +14,7 @@ my $USAGE=<<"USAGE" ;
  
  Usage
 
- 1- Modificar la ruta del archivo (path) y el nombre de archivo de entra y salida (file_contigs y file_Salida respectivamente)
+ 1- Modificar la ruta del archivo (path) y el nombre de archivo de entrada y salida (file_contigs y file_Salida respectivamente)
  
  2- En caso de querer probar otros primers en lugar de los que vienen por defecto, modificar la secuencia dentro del script
 
